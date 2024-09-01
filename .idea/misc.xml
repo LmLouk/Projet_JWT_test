@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Wise_Admin/pom.xml" />
+        <option value="$PROJECT_DIR$/WelcomeWise/pom.xml" />
+        <option value="$PROJECT_DIR$/Departement_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Employee_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_server/pom.xml" />
+        <option value="$PROJECT_DIR$/Employe_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/EmployeeService/pom.xml" />
+        <option value="$PROJECT_DIR$/DepartementService/pom.xml" />
+        <option value="$PROJECT_DIR$/FormationService/pom.xml" />
+        <option value="$PROJECT_DIR$/QuizService/pom.xml" />
+        <option value="$PROJECT_DIR$/Authentification/pom.xml" />
+        <option value="$PROJECT_DIR$/jwt-servce/jwt-servce/pom.xml" />
+        <option value="$PROJECT_DIR$/jwt-servce/pom.xml" />
+        <option value="$PROJECT_DIR$/auth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/departement-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Authentification/pom.xml" />
+        <option value="$PROJECT_DIR$/DepartementService/pom.xml" />
+        <option value="$PROJECT_DIR$/Employe_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Employee_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/auth-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

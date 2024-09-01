@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka_server" />
+        <module name="jwt-servce" />
+        <module name="EmployeeService" />
+        <module name="departement-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth-service" target="17" />
+      <module name="Authentification" target="17" />
+      <module name="DepartementService" target="17" />
+      <module name="Employe_Service" target="17" />
+      <module name="Employee_Service" target="17" />
+      <module name="FormationService" target="17" />
+      <module name="QuizService" target="17" />
+      <module name="Wise_Admin" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Authentification" options="-parameters" />
+      <module name="DepartementService" options="-parameters" />
+      <module name="Employe_Service" options="-parameters" />
+      <module name="EmployeeService" options="-parameters" />
+      <module name="Employee_Service" options="-parameters" />
+      <module name="FormationService" options="-parameters" />
+      <module name="QuizService" options="-parameters" />
+      <module name="Wise_Admin" options="-parameters" />
+      <module name="auth-service" options="-parameters" />
+      <module name="departement-service" options="-parameters" />
+      <module name="eureka_server" options="-parameters" />
+      <module name="jwt-servce" options="-parameters" />
+    </option>
+  </component>
+</project>
